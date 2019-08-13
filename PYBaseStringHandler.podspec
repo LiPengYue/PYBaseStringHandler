@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PYBaseStringHandler'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '对于string、AttributedString的链式调用处理。计算String、AttributedString的宽高。'
 
   s.description      = <<-DESC
