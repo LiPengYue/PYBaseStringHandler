@@ -7,11 +7,11 @@
 
 #import <Foundation/Foundation.h>
 #import "BaseStringHandler.h"
-#import <AttributedStr/BaseAttriButedStrHandler+ChangeStyle.h>
+#import "BaseAttriButedStrHandler+ChangeStyle.h"
 
-#import <FiltrateRuler/BaseFiltrateRulerHeader.h>
-#import <AttributedStr/NSAttributedString+Size.h>
-#import <AttributedStr/ParagraphStyle/BaseParagraphStyleHandler+Handler.h>
+#import "BaseFiltrateRulerHeader.h"
+#import "NSAttributedString+Size.h"
+#import "BaseParagraphStyleHandler+Handler.h"
 NS_ASSUME_NONNULL_BEGIN
 
 @interface PYBaseStringHandler : NSObject
